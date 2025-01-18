@@ -16,7 +16,7 @@ social media handle, and all images they have uploaded.
 
 ## Features
 
-- Deployed on Netlify
+- Deployed on Netlify : https://serene-peony-98c3da.netlify.app/
 - Integration with Supabase
 - Built with Vite and TypeScript
 
